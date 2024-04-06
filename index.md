@@ -1,4 +1,4 @@
-Male | 28 Xianning West Road, Xi’an, Shaanxi, 710000, China | jinghui.li@stu.xjtu.edu.cn
+Male, 28 Xianning West Road, Xi’an, Shaanxi, 710000, China, jinghui.li@stu.xjtu.edu.cn
 
 <h2>RESEARCH INTERESTS</h2>
 <p>Optical diagnosis of metal materials in nuclear power plants</p>
